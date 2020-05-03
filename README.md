@@ -8,7 +8,12 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 
 ## Contents
 
+### Enough to be dangerous
+
 * [JUnit 5 User Guide](https://junit.org/junit5/docs/current/user-guide/#overview)
+
+### To master, continue with
+
 * [Junit 5: the next gen of testing, don't stay behind](https://www.youtube.com/watch?v=5fIkkoPtPaw)
 * [JUnit 5 for Kotlin Developers](https://www.baeldung.com/junit-5-kotlin)
 * [Тестирование с помощью JUnit 5 на Kotlin](https://habr.com/ru/post/346452/)
