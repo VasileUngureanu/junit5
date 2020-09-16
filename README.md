@@ -20,6 +20,7 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 * [JUnit 5 in Kotlin Testing](https://www.polidea.com/blog/junit-5-in-kotlin-testing/?utm_source=Twitter&utm_medium=Npaid&utm_campaign=Blog&utm_term=Article&utm_content=TT_NOP_BLG_ART_JU001)
 * [JUnit 4 on one page](https://blog.thecodewhisperer.com/junit-on-one-page.pdf)
 * [Examples of usage JUnit 5 written on Kotlin](https://github.com/rkudryashov/junit5-kotlin)
+* [Writing Tests with JUnit 5](https://blog.jetbrains.com/idea/2020/09/writing-tests-with-junit-5/)
 
 ## Usage
 
